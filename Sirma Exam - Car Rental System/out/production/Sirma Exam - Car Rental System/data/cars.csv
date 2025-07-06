@@ -1,0 +1,4 @@
+Id,Make,Model,Year,Type,Status,CurrentRenterName,CurrentRenterId,StartDate,ExpectedReturnDate
+1,Toyota,Corolla,2019,Sedan,Available,,,,,
+2,Ford,Focus,2020,Hatchback,Rented,Jane Smith,CUST001,2025-06-28,2025-07-05
+3,Audi,A4,2022,Sedan,Available,,,,,
